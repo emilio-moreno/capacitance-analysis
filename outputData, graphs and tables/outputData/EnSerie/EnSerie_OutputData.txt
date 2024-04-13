@@ -1,0 +1,6 @@
+Medicion,Voltaje Inicial Modelo,Voltaje Inicial Arduino,Tiempo Decaimiento Modelo,Tiempo Decaimiento Arudino,Resistencia,NanoCapacitancia
+1,4.72206,4.87,1.04324,1.049,44000000,23.7101
+2,4.72021,4.86,1.03438,1.035,44000000,23.5085
+3,4.52315,4.67,0.97214,0.987,44000000,22.0941
+4,4.69442,4.85,0.959667,0.962,44000000,21.8106
+5,4.57832,4.76,1.16467,1.173,44000000,26.4699
